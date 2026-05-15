@@ -1,0 +1,20 @@
+{
+  "name": "skillsmastery",
+  "version": "1.0.0",
+  "description": "A practice project for mastering Claude Code Skills — learning to create, test, and iterate on SKILL.md files that encode coding conventions, workflows, and project rules.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.6"
+  }
+}
