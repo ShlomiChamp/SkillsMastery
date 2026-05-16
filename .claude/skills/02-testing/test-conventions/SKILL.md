@@ -1,6 +1,6 @@
 ---
-name: testing
-description: Use this skill when writing or modifying test files in this project. Enforces Vitest as the framework, file-path mirroring (src/x.ts → tests/x.test.ts), describe/it structure, three minimum tests per function, and specific-value assertions over truthiness.
+name: test-conventions
+description: Use this skill when writing or modifying test files in this project. Enforces Vitest as the framework, file-path mirroring (src/x.ts → tests/x.test.ts), describe/it structure, three minimum tests per function, and specific-value assertions over truthiness. Renamed from 'testing' for clarity. Pair with test-quality skill for self-improvement workflow.
 ---
 
 # Testing Standards
